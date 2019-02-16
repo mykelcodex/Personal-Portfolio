@@ -1,0 +1,59 @@
+
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+a{
+  color:#ecc671;
+}
+
+
+.text-yellow{
+
+  color:#ECC671;
+
+}
+.bg-dark-purple{
+
+  background-color:#36364d;
+
+}
+
+p{
+  font-family: inherit;
+}
+
+.bg-purple{
+
+  background: #3D3D57;
+
+}
+
+.text-light-purple{
+
+  color:#ababc6;
+}
+
+.text-medium-purple {
+  color: #5a5a74;
+}
+
+
+.topp-head{
+ 
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 81%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 100% 81%, 0% 100%);
+
+}
+
+.top-head{
+
+  border-bottom: 4px solid #ECC671;
+
+}
+
+.active{
+
+  color:#ECC671;
+
+}
